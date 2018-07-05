@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>기계과 기계시스템전공</item>
+        <item>기계과 기계설계전공</item>
+        <item>전자정보과 전자전공</item>
+        <item>임베디드응용전공</item>
+        <item>산업경영과</item>
+        <item>건축설비플랜트과</item>
+        <item>금형설계과</item>
+        <item>메카트로닉스과</item>
+        <item>IT소프트웨어과</item>
+        <item>정보통신과</item>
+        <item>e-비즈니스과</item>
+        <item>ICT융합과 유비쿼터스영상보안전공</item>
+        <item>ICT융합과 스마트커뮤니케이션전공</item>
+        <item>테크노산업디자인과 산업디자인전공</item>
+        <item>테크노산업디자인과 인테리어디자인전공</item>
+        <item>시각디자인과</item>
+        <item>애니메이션과</item>
+        <item>i-패션디자인과</item>
+        <item>식품영양과</item>
+        <item>호텔관광 외식조리과 호텔관광전공</item>
+        <item>호텔관광 외식조리과 외식조리경영전공</item>
+        <item>글로벌비즈니스과 일본비즈니스전공</item>
+        <item>글로벌비즈니스과 중국비즈니스전공</item>
+        <item>경영과 경영정보전공</item>
+        <item>경영과 유통물류전공</item>
+        <item>경영과 세무회계전공</item>
+        <item>U-보건의료행정과</item>
+        <item>보건복지과</item>
+        <item>아동보육과</item>
+    </string-array>
+</resources>
